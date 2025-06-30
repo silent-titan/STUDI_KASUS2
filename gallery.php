@@ -29,9 +29,7 @@
             $query = mysqli_query($db, $sql);
             while ($data = mysqli_fetch_array($query)) {
                 echo "<div class='bg-white border rounded shadow overflow-hidden'>";
-
                 echo "<img src='images/{$data['foto']}' class='w-full h-48 object-cover' alt='Gambar'>";
-
                 echo "<div class='p-4'>";
                 echo "<h3 class='text-lg font-semibold text-blue-700'>" .
                     htmlspecialchars($data['judul']) . "</h3>";
