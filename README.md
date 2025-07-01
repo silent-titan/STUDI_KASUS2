@@ -25,7 +25,7 @@ Frontend : Tailwind CSS, HTML
 Server Side : Apache / XAMPP
 Struktur Folder
 
-Screenshot 2025-06-23 115243
+
 
 User Interface Halaman Publik
 
@@ -33,19 +33,19 @@ A. Halaman Home / Artikel
 
 Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.
 
-Screenshot 2025-06-23 120751
+
 
 B. Halaman Gallery
 
 Halaman Gallery adalah halaman yang menampilkan foto-foto mahasiswa secara individu.
 
-Screenshot 2025-06-23 121251
+
 
 C. Halaman About
 
 Halaman About adalah halaman yang menampilkan deskripsi tentang saya atau profile dari masing-masing mahasiswa.
 
-Screenshot 2025-06-23 121542
+
 
 User Interface Halaman Admin
 
@@ -53,25 +53,25 @@ A. Halaman Login
 
 Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin, diperlukan username dan password.
 
-Screenshot 2025-06-23 124735
+
 
 B. Halaman Beranda
 
 Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan Jumlah Gallery.
 
-Screenshot 2025-06-23 124818
+
 
 C. Halaman Kelola Artikel
 
 Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.
 
-Screenshot 2025-06-23 125004 Screenshot 2025-06-23 125120 Screenshot 2025-06-23 125137
+
 
 D. Halaman Kelola Gallery
 
 Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.
 
-Screenshot 2025-06-23 125235 Screenshot 2025-06-23 125250 Screenshot 2025-06-23 125306
+
 
 E. Halaman About
 
