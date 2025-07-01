@@ -77,7 +77,7 @@ E. Halaman About
 
 Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.
 
-Screenshot 2025-06-23 125620 Screenshot 2025-06-23 125637 Screenshot 2025-06-23 125648
+
 
 PENAMBAHAN FITUR BARU (OPSIONAL) TAMBAHAN NILAI
 
