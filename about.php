@@ -9,7 +9,7 @@
 <body class="bg-gray-100 text-gray-800 font-sans">
 <!-- Header -->
 <header class="bg-blue-900 text-white text-center p-6 text-2xl font-bold">
-About Me | NamaSendiri
+About Me | AkmalNurPajar
 </header>
 <!-- Navigation -->
 <nav class="bg-blue-700 text-white py-3">

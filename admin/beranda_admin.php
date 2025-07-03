@@ -52,7 +52,7 @@ $hasil = mysqli_fetch_array($query);
         $jumlah_gallery = mysqli_num_rows(mysqli_query($db, "SELECT id_gallery FROM tbl_gallery"));
     ?>
 <!-- Main Content -->
-<main class="w-3/4 bg-white rounded shadow p-6 ml-6">
+<main class="w-3/4 bg-white rounded shadow p-6 ml-6 flex flex-col">
     <div class="text-lg text-gray-800 mb-4">Halo, <strong class="text-blue-700">
         <?php echo $_SESSION['username'];
         ?>
@@ -78,7 +78,7 @@ $hasil = mysqli_fetch_array($query);
 </main>
 </div>
 <!-- Footer -->
-<footer class="bg-blue-800 text-white text-center py-4 mt-10">
+<footer class="bg-blue-800 text-white text-center py-4 mt-10  w-full">
     &copy; <?php echo date('Y'); ?> | Created by AkmalNurPajar
 </footer>
 </body>

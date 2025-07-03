@@ -70,7 +70,7 @@ $data = mysqli_fetch_array($query);
     </div>
 <!-- Footer -->
 <footer class="bg-blue-800 text-white text-center py-4 mt-10">
-    &copy; <?php echo date('Y'); ?> | Created by NamaSendiri
+    &copy; <?php echo date('Y'); ?> | Created by AkmalNurPajar
 </footer>
 </body>
 </html>

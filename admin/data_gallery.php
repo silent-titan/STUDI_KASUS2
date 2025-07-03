@@ -54,8 +54,7 @@ if (!isset($_SESSION['username'])) {
             echo "<div class='bg-gray-50 border rounded shadow overflow-hidden'>";
             echo "<img src='../images/{$data['foto']}' class='w-full h-48 object-cover'>";
             echo "<div class='p-4'>";
-            echo "<p class='font-semibold text-gray-800 mb-2'>" .
-            htmlspecialchars($data['judul']) . "</p>";
+            echo "<p class='font-semibold text-gray-800 mb-2'>" .htmlspecialchars($data['judul']) . "</p>";
             echo "<div class='flex justify-between text-sm'>";
             echo "<a href='edit_gallery.php?id_gallery={$data['id_gallery']}'class='text-blue-600 hover:underline'>Edit</a>";
             echo "<a href='delete_gallery.php?id_gallery={$data['id_gallery']}' onclick='return confirm(\"Yakin ingin menghapus?\")' class='text-red-600 hover:underline'>Hapus</a>";
